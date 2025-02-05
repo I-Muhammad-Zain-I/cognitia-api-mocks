@@ -1,83 +1,83 @@
 [
   {
-    "setId": "1",
-    "title": "Physics 1",
-    "materials": [
+    "setId":"1",
+    "title":"Physics 1",
+    "materials":[
       {
-        "materialId": "1",
-        "fileName": "Bohr Model",
-        "fileSize": "1.2 MB",
-        "uploadedOn": "Jan 4, 2025",
-        "format": "PDF"
+        "materialId":"1",
+        "fileName":"Bohr Model",
+        "fileSize":"1.2 MB",
+        "uploadedOn":"Jan 4, 2025",
+        "format":"PDF"
       },
       {
-        "materialId": "2",
-        "fileName": "Heisenberg Uncertainty Principle",
-        "fileSize": "1.5 MB",
-        "uploadedOn": "Jan 5, 2025",
-        "format": "DOC"
+        "materialId":"2",
+        "fileName":"Heisenberg Uncertainty Principle",
+        "fileSize":"1.5 MB",
+        "uploadedOn":"Jan 5, 2025",
+        "format":"DOC"
       },
       {
-        "materialId": "3",
-        "fileName": "Newton's Laws",
-        "fileSize": "1.8 MB",
-        "uploadedOn": "Jan 6, 2025",
-        "format": "PPT"
+        "materialId":"3",
+        "fileName":"Newton's Laws",
+        "fileSize":"1.8 MB",
+        "uploadedOn":"Jan 6, 2025",
+        "format":"PPT"
       },
       {
-        "materialId": "4",
-        "fileName": "Quantum Mechanics",
-        "fileSize": "2.0 MB",
-        "uploadedOn": "Jan 7, 2025",
-        "format": "DOC"
+        "materialId":"4",
+        "fileName":"Quantum Mechanics",
+        "fileSize":"2.0 MB",
+        "uploadedOn":"Jan 7, 2025",
+        "format":"DOC"
       },
       {
-        "materialId": "5",
-        "fileName": "Ionic Bonding",
-        "fileSize": "2.2 MB",
-        "uploadedOn": "Jan 8, 2025",
-        "format": "PPT"
+        "materialId":"5",
+        "fileName":"Ionic Bonding",
+        "fileSize":"2.2 MB",
+        "uploadedOn":"Jan 8, 2025",
+        "format":"PPT"
       }
     ]
   },
   {
-    "setId": "2",
-    "title": "Physics 2",
-    "materials": [
+    "setId":"2",
+    "title":"Physics 2",
+    "materials":[
       {
-        "materialId": "3",
-        "fileName": "Ionic Bonding",
-        "fileSize": "1.8 MB",
-        "uploadedOn": "Jan 6, 2025",
-        "format": "PDF"
+        "materialId":"3",
+        "fileName":"Ionic Bonding",
+        "fileSize":"1.8 MB",
+        "uploadedOn":"Jan 6, 2025",
+        "format":"PDF"
       },
       {
-        "materialId": "4",
-        "fileName": "Covalent Bonding",
-        "fileSize": "2.0 MB",
-        "uploadedOn": "Jan 7, 2025",
-        "format": "DOC"
+        "materialId":"4",
+        "fileName":"Covalent Bonding",
+        "fileSize":"2.0 MB",
+        "uploadedOn":"Jan 7, 2025",
+        "format":"DOC"
       },
       {
-        "materialId": "5",
-        "fileName": "Periodic Table",
-        "fileSize": "2.2 MB",
-        "uploadedOn": "Jan 8, 2025",
-        "format": "PPT"
+        "materialId":"5",
+        "fileName":"Periodic Table",
+        "fileSize":"2.2 MB",
+        "uploadedOn":"Jan 8, 2025",
+        "format":"PPT"
       },
       {
-        "materialId": "6",
-        "fileName": "Chemical Reactions",
-        "fileSize": "2.5 MB",
-        "uploadedOn": "Jan 9, 2025",
-        "format": "DOC"
+        "materialId":"6",
+        "fileName":"Chemical Reactions",
+        "fileSize":"2.5 MB",
+        "uploadedOn":"Jan 9, 2025",
+        "format":"DOC"
       },
       {
-        "materialId": "7",
-        "fileName": "Organic Chemistry",
-        "fileSize": "2.8 MB",
-        "uploadedOn": "Jan 10, 2025",
-        "format": "PDF"
+        "materialId":"7",
+        "fileName":"Organic Chemistry",
+        "fileSize":"2.8 MB",
+        "uploadedOn":"Jan 10, 2025",
+        "format":"PDF"
       }
     ]
   }
