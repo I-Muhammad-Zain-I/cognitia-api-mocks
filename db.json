@@ -1,4 +1,6 @@
-[
+{
+  materials:
+  [
   {
     "setId":"1",
     "title":"Physics 1",
@@ -81,4 +83,4 @@
       }
     ]
   }
-]
+]}
